@@ -1,4 +1,4 @@
-# ENGL682 - NLP and AI Communication
+# ENGL682 - NLP and Institutional AI Communication 
 Examining AI Guidelines and Approaches in Leading (Technology)
 Institutions for Principles of Trustworthiness, Robustness, and Inclusivity
 
@@ -111,5 +111,5 @@ data.corpus.clean.tb=  data.corpus.clean %>%
   dplyr::rename(word = 1, freq = 2) %>%
   dplyr::arrange(desc(freq))
   
-
+# Result, Analysis, and Observations in the Final Project Report
 
